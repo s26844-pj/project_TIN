@@ -207,7 +207,7 @@ body {
   height: 75vh;
   text-align: center;
   color: #fff;
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../header-mini.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("header-mini.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -256,7 +256,7 @@ body {
 .hero-img {
   position: relative;
   padding: 10em 2em;
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../hero-mini.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("hero-mini.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -297,13 +297,13 @@ body {
   transition: transform 1s, opacity 1s;
 }
 .qualifications__card-img--first {
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../kwalifikacje-1.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("kwalifikacje-1.jpg");
 }
 .qualifications__card-img--second {
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../kwalifikacje-2.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("kwalifikacje-2.jpg");
 }
 .qualifications__card-img--third {
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../kwalifikacje-3.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("kwalifikacje-3.jpg");
 }
 .qualifications__card-img-title {
   font-family: "Dancing Script", cursive;
@@ -372,7 +372,7 @@ body {
 
 .offers {
   position: relative;
-  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../hero-mini.jpg");
+  background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("hero-mini.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -667,7 +667,7 @@ body {
     right: 50px;
   }
   .header {
-    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../header-big.jpg");
+    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("header-big.jpg");
   }
   .header__heading {
     font-size: 10rem;
@@ -692,7 +692,7 @@ body {
   }
   .hero-img {
     padding: 40rem 2em;
-    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../hero-big.jpg");
+    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("hero-big.jpg");
   }
   .hero-img__title {
     font-size: 7.2rem;
@@ -702,7 +702,7 @@ body {
     max-width: 900px;
   }
   .offers {
-    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("../hero-big.jpg");
+    background-image: linear-gradient(45deg, rgba(16, 93, 11, 0.512), rgba(23, 194, 71, 0.499)), url("hero-big.jpg");
   }
   .offers__option-img {
     -o-object-fit: cover;
